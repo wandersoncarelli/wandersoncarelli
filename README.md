@@ -15,8 +15,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandersoncarelli&show_icons=true&theme=dark&locale=en&layout=compact" alt="wandersoncarelli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersoncarelli&show_icons=true&theme=dark&locale=en" alt="wandersoncarelli" /></p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wandersoncarelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandersoncarelli&theme=dark" alt="wandersoncarelli" /></p>
 
