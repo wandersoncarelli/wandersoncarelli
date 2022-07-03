@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandersoncarelli&label=Profile%20views&color=1e3c96&style=flat" alt="wandersoncarelli" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **HTML/CSS3/JS**
 - 📫 Contato: wanderson.carelli@gmail.com
 
 <h3 align="left">Conecte-se comigo:</h3>
