@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Wanderson!</h1>
 <h3 align="center">Um estudante de desenvolvimento apaixonado por tecnologia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wandersoncarelli&label=Profile%20views&color=1e3c96&style=flat" alt="wandersoncarelli" /> </p>
-👀👆🏻
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wandersoncarelli&label=Profile%20views&color=1e3c96&style=flat" alt="wandersoncarelli" /> 👈🏻👀🤌🏻</p>
+
 
 - 🔭 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**
 - 🌱 Atualmente estou aprendendo **HTML/CSS3/JS**
